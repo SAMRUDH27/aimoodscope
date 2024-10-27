@@ -1,4 +1,4 @@
-To help highlight key features and benefits of your `MoodScape` app, here are some details you can consider:
+
 
 ### 1. **Purpose of MoodScape**
    - *Personalized Mood Visualization*: MoodScape helps users transform their daily emotions and thoughts into visually engaging art, making it a creative way to understand and reflect on their mood patterns.
@@ -36,3 +36,9 @@ To help highlight key features and benefits of your `MoodScape` app, here are so
    - *Insights and Reflections*: View detailed insights through user-friendly cards that break down emotional data over time.
 
 Highlighting these points can help users quickly understand the value and unique aspects of MoodScape, making the app appealing and purposeful for anyone interested in personal growth, creativity, and well-being.
+
+### 5. **Screen Shots**
+![Screenshot 2024-10-27 173839](https://github.com/user-attachments/assets/fd5e3dc1-cc8b-4e14-81cf-0cd4bb1fffdb)
+
+![image](https://github.com/user-attachments/assets/6d161910-c375-44ef-bacf-979fb974567e)
+
